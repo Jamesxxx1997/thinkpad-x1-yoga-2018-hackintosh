@@ -18,13 +18,13 @@ video : https://www.youtube.com/channel/UCmVLJUv2nHImPS5CbaUuyKQ
 ## Working/Not working list
   - what is working
     - audio
-    - Built in Camera (connected through usb)
+    - Built in Camera (connected through usb , Integrated camera under system info)
     - brightness adjustment (via keyboard)
     - HDMI output throught type c slot and HDMI slot
     - wifi&bluetooth (swap your wifi card) [Broadcom DW1560(OEM by Dell), DW1830(OEM by Dell), BCM94352Z(OEM by Lenovo), BCM943602BAED(OEM by Lenovo), BCM94360CS2(OEM by Apple), BCM943602CS(OEM by Apple)]
     - trackpad (PS/2 synaptics trackpad , drived by acidanthera voodoops2)
     - *touchscreen*
-      - connected through usb
+      - connected through usb (pen and multitouch sensor under system info)
       - ***there is two option to get multitouch and pen support for touchscreen***
         - voodooi2c.kext and voodooi2chid.kext
           - recommended : for it is free , and gesture is very responsive
@@ -56,7 +56,7 @@ video : https://www.youtube.com/channel/UCmVLJUv2nHImPS5CbaUuyKQ
     - Ethernet port
     - Mac App Store works normally
     - microSD card reader
-      - connected through usb , therefore it works without any kext needed
+      - connected through usb (USB 3.0-CRW under system info), therefore it works without any kext needed
     - sleep and wake
       - ***need to update to bios 1.35 or newer***
       - sleep mode
