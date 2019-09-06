@@ -64,3 +64,9 @@ Working/Not working list
       - do not have device , not tested ; if you have device please contact me
     - WWAN
       - do not have device , not tested ; connected through usb , you can passthrough your WWAN into virtual machine , and it will work
+
+Personal Customization
+  - EDID & HiDPi
+    - use hackintool or one-key-hidpi
+  - CPU frequency
+    - use one-key-cpufriend
