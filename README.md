@@ -16,7 +16,7 @@ video : https://www.youtube.com/channel/UCmVLJUv2nHImPS5CbaUuyKQ
   - Sleep mode : see information below
 
 ## Working/Not working list
-    - what is working
+  - what is working
     - audio
     - Built in Camera (connected through usb)
     - brightness adjustment (via keyboard)
