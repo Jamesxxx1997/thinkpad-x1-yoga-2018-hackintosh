@@ -67,7 +67,7 @@ video : https://www.youtube.com/channel/UCmVLJUv2nHImPS5CbaUuyKQ
     - thunderbolt 3
       - do not have device , not tested ; if you have device please contact me
     - WWAN
-      - do not have device , not tested ; connected through usb , you can passthrough your WWAN into virtual machine , and it will work
+      - do not have device , not tested ; WWAN is connected through usb , you can passthrough your WWAN into virtual machine , and it will work
 
 ## Personal Customization
   - EDID & HiDPi
