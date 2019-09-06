@@ -82,3 +82,14 @@ video : https://www.youtube.com/channel/UCmVLJUv2nHImPS5CbaUuyKQ
   - https://github.com/daliansky/P-little
   - https://www.tonymacx86.com/threads/an-idiots-guide-to-lilu-and-its-plug-ins.260063/
   
+## System Screen Shot
+### System Info
+![image](https://github.com/Jamesxxx1997/thinkpad-x1-yoga-2018-hackintosh/blob/master/system%20info.png)
+### USB ports
+![image](https://github.com/Jamesxxx1997/thinkpad-x1-yoga-2018-hackintosh/blob/master/USB.png)
+### Graphics
+![image](https://github.com/Jamesxxx1997/thinkpad-x1-yoga-2018-hackintosh/blob/master/Graphics.png)
+### Audio
+![image](https://github.com/Jamesxxx1997/thinkpad-x1-yoga-2018-hackintosh/blob/master/Audio.png)
+### Power
+![image](https://github.com/Jamesxxx1997/thinkpad-x1-yoga-2018-hackintosh/blob/master/Power.png)
