@@ -1,5 +1,7 @@
 full hotpatch clover thanks to @CrazyPegasus , @宪武 and @MAJ in pcbeta forum.
 
+video : https://www.youtube.com/channel/UCmVLJUv2nHImPS5CbaUuyKQ
+
 BIOS setting
   - Enabled DEP (under memory protection / execution prevention)
   - Disabled secure boot
