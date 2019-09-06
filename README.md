@@ -18,9 +18,10 @@ video : https://www.youtube.com/channel/UCmVLJUv2nHImPS5CbaUuyKQ
 ## Working/Not working list
   - what is working
     - audio
+    - Built in Camera (connected through usb)
     - brightness adjustment (via keyboard)
     - HDMI output throught type c slot and HDMI slot
-    - wifi&bluetooth (swap your wifi card)
+    - wifi&bluetooth (swap your wifi card) [Broadcom DW1560(OEM by Dell), DW1830(OEM by Dell), BCM94352Z(OEM by Lenovo), BCM943602BAED(OEM by Lenovo), BCM94360CS2(OEM by Apple), BCM943602CS(OEM by Apple)]
     - trackpad (by acidanthera voodoops2)
     - *touchscreen*
       - connected through usb
@@ -49,8 +50,11 @@ video : https://www.youtube.com/channel/UCmVLJUv2nHImPS5CbaUuyKQ
               - pen touch has pressure sensitivity
               - the upper and lower button function cannot be adjusted via controllermate
     - usb type C hotplug
-    - battery status
+    - battery status (Percentage can be displayed)
+    - Backlit keyboard (Use Fn + space)
     - graphics acceleration
+    - Ethernet port
+    - Mac App Store works normally
     - microSD card reader
       - connected through usb , therefore it works without any kext needed
     - sleep and wake
