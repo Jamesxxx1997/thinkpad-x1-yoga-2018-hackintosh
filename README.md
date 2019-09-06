@@ -78,6 +78,7 @@ video : https://www.youtube.com/channel/UCmVLJUv2nHImPS5CbaUuyKQ
 ## Reference
   - https://blog.daliansky.net
   - https://www.tonymacx86.com/threads/guide-thinkpad-x1-yoga-3rd-gen-20ld-with-mojave.261823/
+  - https://github.com/Jamesxxx1997/thinkpad-x1-carbon-2018-hackintosh
   - https://github.com/daliansky/P-little
   - https://www.tonymacx86.com/threads/an-idiots-guide-to-lilu-and-its-plug-ins.260063/
   
