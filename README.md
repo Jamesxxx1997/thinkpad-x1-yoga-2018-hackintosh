@@ -2,7 +2,7 @@ full hotpatch clover thanks to @CrazyPegasus , @宪武 and @MAJ in pcbeta forum.
 
 video : https://www.youtube.com/channel/UCmVLJUv2nHImPS5CbaUuyKQ
 
-BIOS setting
+## BIOS setting
   - Enabled DEP (under memory protection / execution prevention)
   - Disabled secure boot
   - Disabled legacy boot
@@ -15,7 +15,7 @@ BIOS setting
   - thunderbolt bios assist : disabled
   - Sleep mode : see information below
 
-Working/Not working list
+## Working/Not working list
   - what is working
     - audio
     - brightness adjustment (via keyboard)
@@ -65,13 +65,13 @@ Working/Not working list
     - WWAN
       - do not have device , not tested ; connected through usb , you can passthrough your WWAN into virtual machine , and it will work
 
-Personal Customization
+## Personal Customization
   - EDID & HiDPi
     - use hackintool or one-key-hidpi
   - CPU frequency
     - use one-key-cpufriend
 
-Reference
+## Reference
   - https://blog.daliansky.net
   - https://www.tonymacx86.com/threads/guide-thinkpad-x1-yoga-3rd-gen-20ld-with-mojave.261823/
   - https://github.com/daliansky/P-little
