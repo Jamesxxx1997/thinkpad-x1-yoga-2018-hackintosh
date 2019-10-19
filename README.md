@@ -36,17 +36,13 @@ video : https://www.youtube.com/channel/UCmVLJUv2nHImPS5CbaUuyKQ
               - pen touch : act as left click
                 - stylus pen pressure sensitivity is not supported
               - lower button + pen touch : act as middle click
-              - bluetooth connection to your osx , use top button
-                - bluetooth connection is not stable
-                - three function : single press , double press , long press ; being treat as keyboard event
-                - can be remapped via bettertouchtool
-              - pen button function(including top button) can be adjusted via controllermate and bettertouchtool)
+              - pen button function can be adjusted via controllermate and bettertouchtool)
         - touch-base updd driver ( you can mail to them for a trial driver , for free)
           - not recommended : for higher cpu usage(about 10 percent) , occationally the touch has laggy issue , and the driver is expensive
           - support
             - touchscreen gesture : can be adjust via GUI menu
             - stylus pen
-              - upper button + pen touch + lower button + bluetooth connection
+              - upper button + pen touch
               - pen touch has pressure sensitivity
               - the upper and lower button function cannot be adjusted via controllermate
     - usb type C hotplug
