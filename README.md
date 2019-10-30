@@ -93,6 +93,6 @@ video : https://www.youtube.com/channel/UCmVLJUv2nHImPS5CbaUuyKQ
 
 
 
-Edit:
+## Edit:
 - 2019/10/30 : 
   - Bettertouchtool seems to cause system a bit instable and laggy ; version 3.2 of bettertouchtool crash after it is launched ; oversion 3.217 randomly have very high cpu usage.
