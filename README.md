@@ -2,6 +2,10 @@ full hotpatch clover thanks to @CrazyPegasus , @宪武 and @MAJ in pcbeta forum.
 
 video : https://www.youtube.com/channel/UCmVLJUv2nHImPS5CbaUuyKQ
 
+Edit:
+2019/10/30 : 
+- Bettertouchtool seems to cause system a bit instable and laggy ; version 3.2 of bettertouchtool crash after it is launched ; oversion 3.217 randomly have very high cpu usage.
+
 ## BIOS setting
   - Enabled DEP (under memory protection / execution prevention)
   - Disabled secure boot
