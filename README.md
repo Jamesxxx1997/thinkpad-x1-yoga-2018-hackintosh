@@ -1,5 +1,7 @@
 full hotpatch clover thanks to @CrazyPegasus , @宪武 and @MAJ in pcbeta forum.
 
+完整中文教學請看我上傳的word檔，裡面有關於dsdt修改、基本背景知識等等的內容
+
 video : https://www.youtube.com/channel/UCmVLJUv2nHImPS5CbaUuyKQ
 
 
