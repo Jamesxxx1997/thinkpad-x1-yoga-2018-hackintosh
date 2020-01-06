@@ -25,6 +25,7 @@ video : https://www.youtube.com/channel/UCmVLJUv2nHImPS5CbaUuyKQ
     - brightness adjustment (via keyboard)
     - HDMI output throught type c slot and HDMI slot
     - wifi&bluetooth (swap your wifi card) [Broadcom DW1560(OEM by Dell), DW1830(OEM by Dell), BCM94352Z(OEM by Lenovo), BCM943602BAED(OEM by Lenovo), BCM94360CS2(OEM by Apple), BCM943602CS(OEM by Apple)]
+      - the kext for wifi card dw160 are put in clover/kext/other by default , if you are using catalina , you should replace BrcmPatchRAM2 with BrcmPatchRAM3 , and added BrcmBluetoothInjector.kext
     - trackpad (PS/2 synaptics trackpad , drived by acidanthera voodoops2)
     - *touchscreen*
       - connected through usb (pen and multitouch sensor under system info)
