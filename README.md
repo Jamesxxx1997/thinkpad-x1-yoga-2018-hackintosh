@@ -65,9 +65,9 @@ video : https://www.youtube.com/channel/UCmVLJUv2nHImPS5CbaUuyKQ
       - when the machine is sleeping , the LED bulb will blink , after wake it become to normal
  - untest(not sure)
     - thunderbolt 3
-      - do not have device , not tested ; if you have device please contact me
+      - do not have device , not tested ; might be full of bug
     - WWAN
-      - do not have device , not tested ; WWAN is connected through usb , therefore you can passthrough your WWAN into virtual machine , and it will work
+      - do not have device , not tested ; WWAN is connected through pcie
 
 ## Personal Customization
   - EDID & HiDPi
